@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [tanbirpathan.com](tanbirpathan.com)
+- 👨‍💻 All of my projects are available at [tanbirpathan.com](www.tanbirpathan.com)
 
 - 💬 Ask me about **Javascript,Html,Css,BoosTrap**
 
