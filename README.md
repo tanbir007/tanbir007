@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 />
 <h1 align="center">Hi 👋, I'm Tanbir Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img aligh="right" width="25%" src="https://miro.medium.com/max/1400/1*KyC8tx9cl7ftKrPBf2wWGw.gif" alt= ""
+<img aligh="right" width="40%" src="https://miro.medium.com/max/1400/1*KyC8tx9cl7ftKrPBf2wWGw.gif" alt= ""
 />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanbir007&label=Profile%20views&color=0e75b6&style=flat" alt="tanbir007" /> </p>
